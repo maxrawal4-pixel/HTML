@@ -161,6 +161,6 @@ It motivates me to keep learning and sharing my progress.
 
 *"The best way to learn web development is by building projects every day."*
 
-Made with ❤️ by **YOUR NAME**
+Made with ❤️ by **Max Rawal**
 
 </div>
